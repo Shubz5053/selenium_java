@@ -1,0 +1,54 @@
+2025-12-13 13:18:52 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 13:18:52 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 13:18:53 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 19:34:55 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 19:34:55 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 19:34:56 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 19:56:14 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 19:56:14 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 19:56:14 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:03:04 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:03:04 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:03:04 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:03:11 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:03:11 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:03:12 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:03:17 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:03:17 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:03:18 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:03:58 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:03:58 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:03:58 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:03:58 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:04:00 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:04:00 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:04:02 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:04:02 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:04:03 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:14:33 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:14:33 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:14:33 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:16:02 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:16:02 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:16:02 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:16:24 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:16:24 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:16:24 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:16:24 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:16:26 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:16:26 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:16:26 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:16:27 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:16:27 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-13 20:17:06 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-13 20:17:06 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-13 20:17:07 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-21 20:58:08 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-21 20:58:08 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-21 20:58:09 [TestNG-tests-2] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-21 20:58:10 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-21 20:58:10 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-21 20:58:10 [TestNG-tests-1] INFO  testCases.TC001_LoginTestCases - Login successful
+2025-12-21 21:00:32 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Browser started
+2025-12-21 21:00:32 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2025-12-21 21:00:33 [TestNG-tests-3] INFO  testCases.TC001_LoginTestCases - Login successful
