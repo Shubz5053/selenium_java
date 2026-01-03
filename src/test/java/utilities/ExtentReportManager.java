@@ -95,16 +95,23 @@ public class ExtentReportManager implements ITestListener {
 
 	public void onFinish(ITestContext testContext) {
 
-		extent.flush();
+	    extent.flush();
 
-		String pathOfExtentReport = System.getProperty("user.dir") + "\\reports\\" + repName;
+	    String pathOfExtentReport =
+	            System.getProperty("user.dir") + "\\reports\\" + repName;
 
-		File extentReport = new File(pathOfExtentReport);
+	    File extentReport = new File(pathOfExtentReport);
 
-		try {
-			Desktop.getDesktop().browse(extentReport.toURI());
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+	    // ✅ Detect Jenkins environment
+	    boolean isJenkins = System.getenv("JENKINS_URL") != null;
+
+	    // ✅ Open report ONLY for local run
+	    if (!isJenkins) {
+	        try {
+	            Desktop.getDesktop().browse(extentReport.toURI());
+	        } catch (IOException e) {
+	            e.printStackTrace();
+	        }
+	    }
+}
 }
