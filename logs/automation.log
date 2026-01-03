@@ -36,3 +36,6 @@
 2026-01-03 19:54:54 [main] INFO  testCases.TC001_LoginTestCases - Browser started
 2026-01-03 19:54:54 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
 2026-01-03 19:54:55 [main] INFO  testCases.TC001_LoginTestCases - Login successful
+2026-01-03 20:44:25 [main] INFO  testCases.TC001_LoginTestCases - Browser started
+2026-01-03 20:44:25 [main] INFO  testCases.TC001_LoginTestCases - Navigated to application URL
+2026-01-03 20:44:26 [main] INFO  testCases.TC001_LoginTestCases - Login successful

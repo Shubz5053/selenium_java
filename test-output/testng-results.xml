@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-03T19:54:45 IST" name="Suite" finished-at="2026-01-03T19:55:00 IST" duration-ms="15241">
+  <suite started-at="2026-01-03T20:44:21 IST" name="Suite" finished-at="2026-01-03T20:44:29 IST" duration-ms="7614">
     <groups>
     </groups>
-    <test started-at="2026-01-03T19:54:45 IST" name="Test" finished-at="2026-01-03T19:55:00 IST" duration-ms="15241">
+    <test started-at="2026-01-03T20:44:21 IST" name="Test" finished-at="2026-01-03T20:44:29 IST" duration-ms="7614">
       <class name="testCases.TC001_LoginTestCases">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTestCases@10683d9d]" started-at="2026-01-03T19:54:45 IST" name="setUp" finished-at="2026-01-03T19:54:54 IST" duration-ms="8867" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginTestCases@74e52ef6]" started-at="2026-01-03T20:44:22 IST" name="setUp" finished-at="2026-01-03T20:44:25 IST" duration-ms="3520" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,17 +23,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Verify_Login_Successfully()[pri:0, instance:testCases.TC001_LoginTestCases@10683d9d]" started-at="2026-01-03T19:54:54 IST" name="Verify_Login_Successfully" finished-at="2026-01-03T19:54:55 IST" duration-ms="656" status="PASS">
+        <test-method signature="Verify_Login_Successfully()[pri:0, instance:testCases.TC001_LoginTestCases@74e52ef6]" started-at="2026-01-03T20:44:25 IST" name="Verify_Login_Successfully" finished-at="2026-01-03T20:44:26 IST" duration-ms="482" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Login_Successfully -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_LoginTestCases@10683d9d]" started-at="2026-01-03T19:54:55 IST" name="tearDown" finished-at="2026-01-03T19:54:55 IST" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_LoginTestCases@74e52ef6]" started-at="2026-01-03T20:44:26 IST" name="tearDown" finished-at="2026-01-03T20:44:26 IST" duration-ms="195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_LoginTestCases -->
       <class name="testCases.TC002_LoginTestDDT">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTestDDT@682b2fa]" started-at="2026-01-03T19:54:55 IST" name="setUp" finished-at="2026-01-03T19:54:58 IST" duration-ms="3079" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTestDDT@198b6731]" started-at="2026-01-03T20:44:26 IST" name="setUp" finished-at="2026-01-03T20:44:28 IST" duration-ms="2025" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Verify_Login_Successfully_With_DDT(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTestDDT@682b2fa]" started-at="2026-01-03T19:54:59 IST" name="Verify_Login_Successfully_With_DDT" data-provider="data" finished-at="2026-01-03T19:55:00 IST" duration-ms="600" status="PASS">
+        <test-method signature="Verify_Login_Successfully_With_DDT(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTestDDT@198b6731]" started-at="2026-01-03T20:44:28 IST" name="Verify_Login_Successfully_With_DDT" data-provider="data" finished-at="2026-01-03T20:44:29 IST" duration-ms="356" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verify_Login_Successfully_With_DDT -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTestDDT@682b2fa]" started-at="2026-01-03T19:55:00 IST" name="tearDown" finished-at="2026-01-03T19:55:00 IST" duration-ms="178" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTestDDT@198b6731]" started-at="2026-01-03T20:44:29 IST" name="tearDown" finished-at="2026-01-03T20:44:29 IST" duration-ms="166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
